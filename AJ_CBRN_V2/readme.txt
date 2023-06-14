@@ -1,4 +1,4 @@
-How to add to mission:
+### How to add to mission:
 
 Drag the AJ_CBRN_V2 folder into your mission folder and add the following line into class CfgFunctions in description.ext:
 
@@ -13,7 +13,7 @@ lastly, add the following line to initPlayerLocal.sqf:
 	call AJDJ_fnc_chemicalInitClient;
 
 
-How to use:
+### How to use:
 
 to create and delete a chemical area in zeus, use the modules under the CBRN tab.
 
