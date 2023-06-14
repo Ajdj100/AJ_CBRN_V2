@@ -3,7 +3,7 @@ class AJDJ
 	class CBRN
 	{
 		file = "AJ_CBRN_V2\functions";
-		class zenModules{ postInit = 1 };
+		class zenModules{ postInit = 1; };
 		class createArea{};
 		class chemicalParticleLoop{};
 		class chemicalDamage{};
